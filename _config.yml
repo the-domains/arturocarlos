@@ -1,14 +1,29 @@
+name: ArturoCarlos
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.4749103
+title: Arturo Carlos
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3936679
-  brandStrength: 0.4342891
-  lightness: 0.6553166
-  rhythmicContrast: 0.4569892
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-typography_spectrum: 0.4749103
-name: ArturoCarlos
+  brandStrength: 0.4342891
+  lightness: 0.6553166
+  saturation: 0.3936679
+  rhythmicContrast: 0.4569892
+purpose: []
